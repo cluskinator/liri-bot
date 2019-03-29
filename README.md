@@ -43,4 +43,6 @@ this will display concerts using the BandsInTown API.
 
 here is a screen-grab of the application at work using the aforementioned commands.
 
+![alt text](https://raw.githubusercontent.com/cluskinator/liri-bot/master/outputscreenshot.png)
+
 
